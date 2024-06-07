@@ -1,3 +1,2 @@
-import math
-
-print("HELLO WORLD", 89, 45, sep="gogogog") 
+tuple = ["dfl", 'sdf', 7,8]
+print(tuple)
